@@ -1,0 +1,5 @@
+name: azlan
+city: 'hyd'
+second city: "delhi"
+
+#here name is just a value but city and second city is string we can parse the string in single coat or double coat.

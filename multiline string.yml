@@ -1,0 +1,15 @@
+multiline string literal: |
+  we can write anything using literal
+  in multiline
+  this is one of the type of sting
+  we have one more type will
+  learn in future
+
+multiline string folded: >
+  we can write anything using literal
+  in multiline
+  this is one of the type of sting
+  we have one more type will
+  learn in future
+
+#yaml use indentation means spacing like we have given.

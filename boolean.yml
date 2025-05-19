@@ -1,0 +1,7 @@
+deploy: true
+test: false
+
+# user is active we can represent with true coz user is active
+active: true
+# user is admin we can represent with false coz user is not admin
+admin: false
